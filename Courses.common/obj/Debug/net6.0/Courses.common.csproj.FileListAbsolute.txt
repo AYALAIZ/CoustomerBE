@@ -1,0 +1,12 @@
+C:\Users\User\3D Objects\sari\Courses.common\bin\Debug\net6.0\Courses.common.deps.json
+C:\Users\User\3D Objects\sari\Courses.common\bin\Debug\net6.0\Courses.common.dll
+C:\Users\User\3D Objects\sari\Courses.common\bin\Debug\net6.0\Courses.common.pdb
+C:\Users\User\3D Objects\sari\Courses.common\obj\Debug\net6.0\Courses.common.csproj.AssemblyReference.cache
+C:\Users\User\3D Objects\sari\Courses.common\obj\Debug\net6.0\Courses.common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\3D Objects\sari\Courses.common\obj\Debug\net6.0\Courses.common.AssemblyInfoInputs.cache
+C:\Users\User\3D Objects\sari\Courses.common\obj\Debug\net6.0\Courses.common.AssemblyInfo.cs
+C:\Users\User\3D Objects\sari\Courses.common\obj\Debug\net6.0\Courses.common.csproj.CoreCompileInputs.cache
+C:\Users\User\3D Objects\sari\Courses.common\obj\Debug\net6.0\Courses.common.dll
+C:\Users\User\3D Objects\sari\Courses.common\obj\Debug\net6.0\refint\Courses.common.dll
+C:\Users\User\3D Objects\sari\Courses.common\obj\Debug\net6.0\Courses.common.pdb
+C:\Users\User\3D Objects\sari\Courses.common\obj\Debug\net6.0\ref\Courses.common.dll

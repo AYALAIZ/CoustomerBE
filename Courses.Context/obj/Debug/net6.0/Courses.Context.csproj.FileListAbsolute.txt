@@ -1,0 +1,17 @@
+C:\Users\User\3D Objects\sari\Courses.Context\bin\Debug\net6.0\Courses.Context.deps.json
+C:\Users\User\3D Objects\sari\Courses.Context\bin\Debug\net6.0\Courses.Context.runtimeconfig.json
+C:\Users\User\3D Objects\sari\Courses.Context\bin\Debug\net6.0\Courses.Context.dll
+C:\Users\User\3D Objects\sari\Courses.Context\bin\Debug\net6.0\Courses.Context.pdb
+C:\Users\User\3D Objects\sari\Courses.Context\bin\Debug\net6.0\Courses.Repositories.dll
+C:\Users\User\3D Objects\sari\Courses.Context\bin\Debug\net6.0\Courses.Repositories.pdb
+C:\Users\User\3D Objects\sari\Courses.Context\obj\Debug\net6.0\Courses.Context.csproj.AssemblyReference.cache
+C:\Users\User\3D Objects\sari\Courses.Context\obj\Debug\net6.0\Courses.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\3D Objects\sari\Courses.Context\obj\Debug\net6.0\Courses.Context.AssemblyInfoInputs.cache
+C:\Users\User\3D Objects\sari\Courses.Context\obj\Debug\net6.0\Courses.Context.AssemblyInfo.cs
+C:\Users\User\3D Objects\sari\Courses.Context\obj\Debug\net6.0\Courses.Context.csproj.CoreCompileInputs.cache
+C:\Users\User\3D Objects\sari\Courses.Context\obj\Debug\net6.0\Courses.Context.csproj.CopyComplete
+C:\Users\User\3D Objects\sari\Courses.Context\obj\Debug\net6.0\Courses.Context.dll
+C:\Users\User\3D Objects\sari\Courses.Context\obj\Debug\net6.0\refint\Courses.Context.dll
+C:\Users\User\3D Objects\sari\Courses.Context\obj\Debug\net6.0\Courses.Context.pdb
+C:\Users\User\3D Objects\sari\Courses.Context\obj\Debug\net6.0\Courses.Context.genruntimeconfig.cache
+C:\Users\User\3D Objects\sari\Courses.Context\obj\Debug\net6.0\ref\Courses.Context.dll

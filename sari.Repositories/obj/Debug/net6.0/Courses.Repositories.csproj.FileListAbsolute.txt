@@ -1,0 +1,12 @@
+C:\Users\User\3D Objects\sari\sari.Repositories\bin\Debug\net6.0\Courses.Repositories.deps.json
+C:\Users\User\3D Objects\sari\sari.Repositories\bin\Debug\net6.0\Courses.Repositories.dll
+C:\Users\User\3D Objects\sari\sari.Repositories\bin\Debug\net6.0\Courses.Repositories.pdb
+C:\Users\User\3D Objects\sari\sari.Repositories\obj\Debug\net6.0\Courses.Repositories.csproj.AssemblyReference.cache
+C:\Users\User\3D Objects\sari\sari.Repositories\obj\Debug\net6.0\Courses.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\3D Objects\sari\sari.Repositories\obj\Debug\net6.0\Courses.Repositories.AssemblyInfoInputs.cache
+C:\Users\User\3D Objects\sari\sari.Repositories\obj\Debug\net6.0\Courses.Repositories.AssemblyInfo.cs
+C:\Users\User\3D Objects\sari\sari.Repositories\obj\Debug\net6.0\Courses.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\User\3D Objects\sari\sari.Repositories\obj\Debug\net6.0\Courses.Repositories.dll
+C:\Users\User\3D Objects\sari\sari.Repositories\obj\Debug\net6.0\refint\Courses.Repositories.dll
+C:\Users\User\3D Objects\sari\sari.Repositories\obj\Debug\net6.0\Courses.Repositories.pdb
+C:\Users\User\3D Objects\sari\sari.Repositories\obj\Debug\net6.0\ref\Courses.Repositories.dll
